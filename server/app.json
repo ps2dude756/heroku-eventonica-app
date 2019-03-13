@@ -1,0 +1,10 @@
+{
+    "name": "Eventonica App",
+    "description": "Event app that allows you to view, add, and edit local events",
+    "repository": "https://github.com/karolina-benitez/eventonica-api",
+    "keywords": [
+        "event",
+        "express",
+        "heroku"
+    ]
+}
